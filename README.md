@@ -43,54 +43,50 @@ Java와 Spring Boot를 기반으로<br>
 
 # 🚀 Projects
 
-## 🏠 동네대전 (MSA)
+## 🏘️ [동네대전 - 지역 기반 집단지성 플랫폼](https://github.com/asd1702/todongsan)
 
-지역 기반 집단지성 플랫폼
+> MSA 기반 지역 플랫폼으로 API Gateway와 포인트 서비스를 개발했습니다.
 
-### 담당
-
+**담당**
 - API Gateway
 - Point Service
-- JWT 인증
+- JWT 인증 중앙화
 - Atomic UPDATE 기반 동시성 제어
 - 멱등성 처리
 
 **Tech**
-
-Spring Boot · Spring Cloud Gateway · JPA · MySQL · Docker
+`Java` `Spring Boot` `Spring Cloud Gateway` `JPA` `MySQL` `Redis` `Docker`
 
 ---
 
-## 💪 Blockchain Health Community
+## 💪 [블록체인 기반 헬스 커뮤니티](https://github.com/KNU-DXworks/Backend)
 
-블록체인 기반 헬스 커뮤니티
+> 인바디 데이터를 활용한 AI 기반 헬스 커뮤니티 서비스입니다.
 
-### 담당
-
+**담당**
+- 팀장
+- Spring Boot 백엔드
 - OpenAI Chat Completions API 연동
-- 체형 분류 기능 개발
-- REST API 구현
-- 백엔드 개발
+- 체형 자동 분류 기능 구현
+- REST API 개발
 
 **Tech**
-
-Spring Boot · OpenAI API · MySQL
+`Java` `Spring Boot` `MySQL` `OpenAI API`
 
 ---
 
-## 📈 Venture Startup CRM
+## 📈 [벤처스타트업 투자 CRM](https://github.com/hyunsu1004/CRM-project)
 
-벤처투자 CRM
+> 벤처투자 프로세스를 관리하는 CRM 시스템입니다.
 
-### 담당
-
+**담당**
 - REST API 개발
 - 데이터 모델링
 - API 계약 설계
+- 서비스 연동
 
 **Tech**
-
-Spring Boot · JPA · MySQL
+`Java` `Spring Boot` `JPA` `MySQL`
 
 ---
 
