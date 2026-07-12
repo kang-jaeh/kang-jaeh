@@ -57,7 +57,7 @@ Java와 Spring Boot를 기반으로<br>
 
 **Tech**
 
-Spring Boot · Spring Cloud Gateway · JPA · MySQL · Redis · Docker
+Spring Boot · Spring Cloud Gateway · JPA · MySQL · Docker
 
 ---
 
@@ -96,7 +96,7 @@ Spring Boot · JPA · MySQL
 
 # 📚 Education
 
-- 삼성청년 SW·AI 아카데미 (SSAFY)
+- 삼성청년 SW·AI 아카데미 (SSAFY) 15기 자바 전공 트랙
 - 정보처리기사
 - SQLD
 
