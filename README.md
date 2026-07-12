@@ -78,7 +78,7 @@
 
 **Tech**
 
-`Java` `Spring Boot` `Spring Cloud Gateway` `JPA` `MySQL` `Redis` `Docker`
+`Java` `Spring Boot` `Spring Cloud Gateway` `JPA` `MySQL` `Docker`
 
 ---
 
