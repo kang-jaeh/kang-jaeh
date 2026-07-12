@@ -88,7 +88,6 @@
 
 ### ✨ 담당
 
-- 프로젝트 팀장
 - Spring Boot 백엔드 개발
 - OpenAI Chat Completions API 연동
 - 체형 자동 분류 기능 구현
