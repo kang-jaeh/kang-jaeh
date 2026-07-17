@@ -15,7 +15,6 @@
 - 💻 Java / Spring Boot 기반 백엔드 개발
 - 🏗️ MSA 환경에서 API Gateway 및 서비스 설계 경험
 - 🔍 데이터 정합성과 동시성 문제 해결에 관심
-- 🚗 Enterprise IT 시스템 개발 및 운영을 목표로 성장 중
 
 ---
 
